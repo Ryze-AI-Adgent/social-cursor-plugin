@@ -1,4 +1,4 @@
-# Social by Ryze AI — Cursor Plugin
+# Social Media Posting by Ryze AI — Cursor Plugin
 
 Run social media from Cursor: publish, schedule and analyze posts on Instagram, Facebook, TikTok, YouTube, LinkedIn and Threads.
 
@@ -6,7 +6,7 @@ Run social media from Cursor: publish, schedule and analyze posts on Instagram, 
 
 **In Cursor:**
 
-[![Install in Cursor](https://img.shields.io/badge/Cursor-Install%20Social%20by%20Ryze%20AI-000000?logo=cursor&logoColor=white)](cursor://anysphere.cursor-deeplink/mcp/install?name=social-by-ryze-ai&config=eyJ1cmwiOiAiaHR0cHM6Ly9zb2NpYWwuZ2V0LXJ5emUuYWkvbWNwIn0=)
+[![Install in Cursor](https://img.shields.io/badge/Cursor-Install%20Social%20Media%20Posting%20by%20Ryze%20AI-000000?logo=cursor&logoColor=white)](cursor://anysphere.cursor-deeplink/mcp/install?name=social-media-posting-by-ryze-ai&config=eyJ1cmwiOiAiaHR0cHM6Ly9zb2NpYWwuZ2V0LXJ5emUuYWkvbWNwIn0=)
 
 Or by hand: **Cursor › Settings › MCP › Add new MCP server**, type `http`, URL:
 
@@ -17,7 +17,7 @@ https://social.get-ryze.ai/mcp
 Or drop this into `.cursor/mcp.json` in your project (same content as [mcp.json](mcp.json)):
 
 ```json
-{ "mcpServers": { "social-by-ryze-ai": { "url": "https://social.get-ryze.ai/mcp" } } }
+{ "mcpServers": { "social-media-posting-by-ryze-ai": { "url": "https://social.get-ryze.ai/mcp" } } }
 ```
 
 Cursor opens a browser tab: sign in to Ryze and allow access. No API keys. Also works in Claude Code: `claude mcp add social --transport http https://social.get-ryze.ai/mcp`.
@@ -48,4 +48,4 @@ A Ryze AI account. Connecting accounts works before you start a plan. The tools 
 - [Privacy policy](https://www.get-ryze.ai/privacy?utm_source=github&utm_content=social-cursor-plugin)
 - Support: hello@get-ryze.ai
 
-Social by Ryze AI is an independent product. It is not affiliated with or endorsed by Meta, TikTok, Google, YouTube or LinkedIn.
+Social Media Posting by Ryze AI is an independent product. It is not affiliated with or endorsed by Meta, TikTok, Google, YouTube or LinkedIn.
