@@ -1,0 +1,27 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "social-by-ryze-ai",
+  "version": "1.0.0",
+  "description": "Publish, schedule and analyze posts on Instagram, Facebook, TikTok, YouTube, LinkedIn and Threads from the same Cursor chat: Reels, Stories, Shorts, carousels, company page posts and post analytics.",
+  "author": {
+    "name": "Ryze AI",
+    "email": "hello@get-ryze.ai",
+    "url": "https://www.get-ryze.ai"
+  },
+  "homepage": "https://www.get-ryze.ai",
+  "repository": "https://github.com/Ryze-AI-Adgent/social-cursor-plugin",
+  "license": "MIT",
+  "keywords": [
+    "social-media",
+    "instagram",
+    "facebook",
+    "tiktok",
+    "youtube",
+    "linkedin",
+    "threads",
+    "scheduler",
+    "content-calendar",
+    "social-analytics",
+    "mcp"
+  ]
+}
